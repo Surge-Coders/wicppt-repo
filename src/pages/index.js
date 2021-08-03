@@ -95,13 +95,13 @@ const HomePage = () => {
       
       <Packages
         title="New Patient Forms"
-        para="If you are a new patient, click here to fill out the intake paperwork before your appointment. This online form is HIPPA compliant and"
+        para="If you are a new patient, you can fill out the intake paperwork before your appointment. This online form is HIPPA compliant and secure."
         
       >
 
 <div>
       <a href="https://app.formdr.com/practice/MTQ2MTM=/form/exrtGOJoEt2WrUOfYkwrDrb_0MJ3DlF2" target="_blank" rel="noopener noreferrer">
-        Patient Intake Form
+        Click here for Online Patient Intake Forms
       </a>
     </div>
         
