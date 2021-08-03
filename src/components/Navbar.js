@@ -45,7 +45,7 @@ export const NavStyles = styled.nav`
   right: 0;
   display: flex;
   padding: 1rem;
-  background-color: gray;
+  background-color: (173,173,173,0.6);
   box-sizing: border-box;
 
   .masthead {
