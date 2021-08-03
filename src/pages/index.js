@@ -31,7 +31,7 @@ const HomePage = () => {
           <Perk
             // img={perk1Img}
             alt=""
-            titleOne="Therapy Technique"
+            titleOne="Manual Therapy Techniques"
             contentOne="-Soft Tissue mobilization"
             contentTwo="-Joint mobilization"
             contentThree="-Myofascial Trigger point therapy"
@@ -43,7 +43,7 @@ const HomePage = () => {
           <Perk
             // img={perk2Img}
             alt=""
-            titleOne="Alternative Manual Therapy Technique"
+            titleOne="Alternative Manual Therapy Techniques"
             contentOne="-Gua Sha"
             contentTwo="-Cupping"
           />
